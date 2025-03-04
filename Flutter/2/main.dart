@@ -29,7 +29,7 @@ class HomeScreen extends StatelessWidget {
       /// 상단 앱바 설정
       appBar: AppBar(
         backgroundColor: Colors.blue, // 앱바 색상 지정
-        title: Text("프레임 앱 만들기"), // 앱 제목
+        title: Text("플러터 앱 만들기"), // 앱 제목
         leading: Icon(FontAwesomeIcons.dungeon), // 좌측 아이콘 추가 (둠 아이콘)
         actions: [
           IconButton(
