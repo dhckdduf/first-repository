@@ -4,46 +4,49 @@
 
 - **앱 이름** 
 
-  - 달려라 런냥이    
+  - mixmusic
 
 - **시장(마켓)**  
 
-  - 전 세계 런닝 앱 시장 규모는 5억 6200만 달러, 그 중 국내 스포츠 레져 시장 중 러닝 시장 규모는 1조 이상의 시장성을 가짐    
+  - 창작 칵테일로 가게마다 시그니처 칵테일을 만드는데 도움이 될것
 
 - **타겟**  
 
-  - 코로나로 체중이 증가된 20~40대 남,여          
+  - 술술술          
 
 
 
-## 앱 구조도
+## 앱 구조도 (머메이드 차트)
 
-![AI-UX-4-2-08 original](https://github.com/rudykim2003/AIFFEL_QUEST/assets/86637005/1a237b3c-912b-4763-9f13-22fe714549dc)
-
-
-
-## 앱 와이어프레임 (사용 툴 : 0000)
-
-![AI-UX-4-2-11_j7hKLsb original](https://github.com/rudykim2003/AIFFEL_QUEST/assets/86637005/538223ca-bc1c-4a0a-a4f6-17f27fc9a6f4)
+![칵테일 앱 마인드 맵](https://github.com/user-attachments/assets/cbefba77-f244-4827-9b8c-6745e6b6c7a6)
 
 
-## 프로토타이핑 (사용 툴 : 0000)
 
-![AI-UX-4-2-13 original](https://github.com/rudykim2003/AIFFEL_QUEST/assets/86637005/276a76a9-dadc-47c0-a9d3-169e7c033693)
+## 앱 와이어프레임 (사용 툴 : 피그마 플러그인 )
+
+![칵테일앱](https://github.com/user-attachments/assets/0a8307a3-48d2-45de-9322-0036b44c4da3)
+
+![칵테일앱1 5](https://github.com/user-attachments/assets/f53e25aa-e579-496b-8f14-3b7d5e401659)
+
+![칵테일앱2](https://github.com/user-attachments/assets/64552ba2-7a31-4a47-bc99-3efdcd12c806)
+
+
+
+
+## 프로토타이핑 (사용 툴 : 마블? 마벨?)
+![chrome_22jJJY7Qwh](https://github.com/user-attachments/assets/36f789ec-8e88-4f45-bbb8-4bedd3e1f403)
+
+
 
 
 
 ## 페이지 구현
-1. main.dart - 메인 화면으로 기본적인 구성으로만 작성 되어 있습니다.
-2. loading.dart - 로딩페이지
-3. mypage.dart - 나의페이지
-4. my_location.dart - 위치정보를 포함한 런닝 기록
-5. run_test.dart - 런냥이 테스트 페이지
-
+main.dart
 
 
 ## 구현영상 
-https://github.com/rudykim2003/AIFFEL_QUEST/assets/86637005/c7f3c3ae-5a26-41ac-bfb0-9cf11bbd074b
+
+![chrome_6gfrPjWY1e](https://github.com/user-attachments/assets/24fd40b3-d94f-4932-aa79-e3c3a9fab53e)
 
 
 
@@ -52,7 +55,7 @@ https://github.com/rudykim2003/AIFFEL_QUEST/assets/86637005/c7f3c3ae-5a26-41ac-b
 
 
 ## 회고
-구현된 어플리케이션을 분석하고 재설계하는 부분이 재미있었습니다.     
-하지만 아직 플러터가 익숙하지 않아서 구현에 많은 어려움이 있었습니다.      
-더 많이 연습해서 최종 프로젝트인 아이펠톤에서는 나만의 AI 어플리케이션을 만들어낼겁니다.     
-화이팅!!!
+플러터에 좀 익숙해지나 싶더니 디자인을 으아아앙아아앙
+그래도 어찌어찌 해내는걸 보면 다행입니다.
+플러터로 뼈대 만들면서 언젠가 여기에 llm을 심을날이 오겠지 하니 참 기대도 되고 그렇네요.
+
